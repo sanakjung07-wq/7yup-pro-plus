@@ -1,0 +1,36 @@
+name: 7YUP Daily Report
+
+on:
+  schedule:
+    - cron: "0 2 * * *"  # 09:00 ICT (UTC+7)
+  workflow_dispatch:
+
+jobs:
+  daily-report:
+    runs-on: ubuntu-latest
+    env:
+      SHEETS_CSV_URLS: ${{ secrets.SHEETS_CSV_URLS }}
+      SHEETS_CSV_NAMES: ${{ secrets.SHEETS_CSV_NAMES }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Merge data sources
+        run: |
+          python scripts/fetch_sheets.py
+      - name: Merge data sources
+        run: |
+          python scripts/merge_sources.py
+      - name: Generate daily report
+        run: |
+          python scripts/create_daily_report.py
+      - name: Commit & push report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/
+          git commit -m "chore(report): daily report $(date -u +'%Y-%m-%d')" || echo "No changes"
+          git push
