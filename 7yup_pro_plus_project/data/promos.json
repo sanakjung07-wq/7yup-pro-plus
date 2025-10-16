@@ -1,0 +1,1371 @@
+[
+  {
+    "id": "demo-001",
+    "brand": "PG688",
+    "title": "สมัครใหม่ 38.8",
+    "desc": "โปรทดสอบรวมข้อมูล",
+    "url": "https://example.com",
+    "badge": "NEW",
+    "image": "assets/banners/p0001.jpeg",
+    "category": "signup",
+    "rank": 5,
+    "createdAt": "2025-10-17",
+    "active": true
+  },
+  {
+    "id": "demo-002",
+    "brand": "SP",
+    "title": "ฝากแรก 188",
+    "desc": "ตัวอย่าง CSV → promos.json",
+    "url": "https://example.com/a",
+    "badge": "DAILY",
+    "image": "assets/banners/p0002.jpeg",
+    "category": "first-deposit",
+    "rank": 7,
+    "createdAt": "2025-10-17",
+    "active": true
+  },
+  {
+    "id": "thai-001",
+    "brand": "BUNNY123",
+    "title": "สมาชิกใหม่ 50%",
+    "desc": "ตัวอย่างไทย",
+    "url": "https://ex.com/t1",
+    "badge": "NEW",
+    "image": "assets/banners/p0011.jpeg",
+    "category": "signup",
+    "rank": 9,
+    "createdAt": "2025-10-17",
+    "active": true
+  },
+  {
+    "id": "thai-002",
+    "brand": "WASP SPIN",
+    "title": "ยอดคืน 10%",
+    "desc": "หัวตารางไทย",
+    "url": "https://ex.com/t2",
+    "badge": "WEEKLY",
+    "image": "assets/banners/p0012.jpeg",
+    "category": "cashback",
+    "rank": 12,
+    "createdAt": "2025-10-17",
+    "active": true
+  },
+  {
+    "id": "987109da6e",
+    "brand": "",
+    "title": "",
+    "desc": "",
+    "url": "https://docs.google.com/spreadsheets/d/your-sheet-id/edit#gid=0",
+    "badge": "",
+    "image": "",
+    "category": "",
+    "rank": 9999,
+    "createdAt": "2025-10-16T19:42:08.474363",
+    "active": true
+  },
+  {
+    "id": "e6a9fc0432",
+    "brand": "",
+    "title": "",
+    "desc": "",
+    "url": "",
+    "badge": "",
+    "image": "",
+    "category": "",
+    "rank": 9999,
+    "createdAt": "2025-10-16T19:43:20.561727",
+    "active": true
+  },
+  {
+    "id": "p0056",
+    "slug": "p0056",
+    "brand": "1PGSLOT",
+    "title": "1PGSLOT – โปรลูกค้าใหม่ 20% (สล็อต)",
+    "subtitle": "โปรลูกค้าใหม่ 20% เฉพาะลูกค้าสล็อต — ฝาก 100 รับ 120, ฝาก 200 รับ 240, ฝาก 300 รับ 360",
+    "image": "/assets/banners/p0056.jpg",
+    "logo": "",
+    "tag": [
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://1pgslot.com/?action=register&ref=662b086a5b90a5492a071946",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0037",
+    "slug": "p0037",
+    "brand": "3713",
+    "title": "โปรสมาชิกใหม่ 100%",
+    "subtitle": "เทิร์นได้-เสีย x7 เท่า ถอนได้ไม่จำกัด",
+    "image": "/assets/banners/p0037.jpg",
+    "logo": "",
+    "tag": [
+      "HOT",
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://www.3713app9.com/?r=ler5298",
+    "terms": [
+      "เฉพาะสมาชิกใหม่",
+      "เงื่อนไขตามหน้าเว็บ"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0042",
+    "slug": "p0042",
+    "brand": "4X4ONE",
+    "title": "สมาชิกใหม่ รับ 100%",
+    "subtitle": "โปรโมชั่นพิเศษค่าย PG",
+    "image": "/assets/banners/p0042.jpeg",
+    "logo": "",
+    "tag": [
+      "HOT",
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://4x4one.fyi/register?member_ref=4x4e01ab275391",
+    "terms": [
+      "ทำเทิร์น 5 เท่า",
+      "ถอนได้สูงสุด 10 เท่า"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0007",
+    "slug": "p0007",
+    "brand": "AMBVARIETY88",
+    "title": "สมาชิกใหม่ โบนัสสูงสุด 150",
+    "subtitle": "สมาชิกใหม่ โบนัสสูงสุด 150",
+    "image": "/assets/banners/p0007.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://ambvariety99.com/?action=register&ref=67c23f4401103e00e9195218",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0035",
+    "slug": "p0035",
+    "brand": "ASK4WIN",
+    "title": "สมาชิกใหม่ สูงสุด 150฿",
+    "subtitle": "ฝาก 100/300/500 รับ 130/390/650",
+    "image": "/assets/banners/p0035.jpg",
+    "logo": "",
+    "tag": [
+      "HOT",
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://ask4win.me/?action=register&ref=68cd0a3f457f44b0dde6e858",
+    "terms": [
+      "รับโบนัสทำยอด 2x",
+      "ไม่รับโบนัสไม่ต้องเทิร์น"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0033",
+    "slug": "p0033",
+    "brand": "BERLIN66X",
+    "title": "สมาชิกใหม่ แจกใหญ่ 50%",
+    "subtitle": "กดรับเพิ่มทันที แตกจุกทุกวัน ดีลเดือดสายใหม่",
+    "image": "/assets/banners/p0033.jpg",
+    "logo": "",
+    "tag": [
+      "HOT",
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://berlin66x.com/?action=register&ref=678fc230250342d3b77830a4",
+    "terms": [
+      "เทิร์นตามเงื่อนไข",
+      "โปรสมาชิกใหม่"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0048",
+    "slug": "p0048",
+    "brand": "BETMAX168",
+    "title": "สมาชิกใหม่ 100%",
+    "subtitle": "ฝากขั้นต่ำ 100 สูงสุด 1,000 ทำเพียง 5 เท่า",
+    "image": "/assets/banners/p0048.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW",
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://www.betmax168.bio/register?member_ref=55dwb397257",
+    "terms": [
+      "ทำเทิร์น 5 เท่า",
+      "ถอนสูงสุดตามเงื่อนไข"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0034",
+    "slug": "p0034",
+    "brand": "BORN4WIN",
+    "title": "สมาชิกใหม่ รับโบนัสสูงสุด 150฿",
+    "subtitle": "ฝาก 100/300/500 รับเพิ่ม 30%+ ตามขั้น",
+    "image": "/assets/banners/p0034.jpg",
+    "logo": "",
+    "tag": [
+      "HOT",
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://born4win.com/?action=register&ref=68d610ddc5f221abdac3e836",
+    "terms": [
+      "ไม่รับโบนัสไม่ต้องทำเทิร์น",
+      "ถ้ารับทำยอด 2x"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0010",
+    "slug": "p0010",
+    "brand": "BOZZVEGAS",
+    "title": "ฝากแรกของวัน 100% สูงสุด 1,000",
+    "subtitle": "ฝากแรกของวัน 100% สูงสุด 1,000",
+    "image": "/assets/banners/p0010.jpeg",
+    "logo": "",
+    "tag": [
+      "PRO+"
+    ],
+    "link": "https://bozzvegas.fun/?action=register&ref=668dd26c6b98a6b18e5e4820",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0013",
+    "slug": "p0013",
+    "brand": "BUNNY123",
+    "title": "สมาชิกใหม่ 120% สูงสุด 500",
+    "subtitle": "สมาชิกใหม่ 120% สูงสุด 500",
+    "image": "/assets/banners/p0013.jpeg",
+    "logo": "",
+    "tag": [
+      "HOT"
+    ],
+    "link": "https://bunny123.co/?action=register&ref=6788746a2af94991e8ea1d53",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0064",
+    "slug": "p0064",
+    "brand": "C4-slot",
+    "title": "โปรทุนน้อย 50 รับ 100",
+    "subtitle": "ฝาก 50 รับ 100 ถอนสูงสุด 500",
+    "image": "/assets/banners/p0064.png",
+    "logo": "",
+    "tag": [
+      "ทุนน้อย"
+    ],
+    "link": "https://c4-slot.electrikora.com/?prefix=c4-slot&action=register&refer_code=YRFsU25bap",
+    "terms": [
+      "เทิร์นเครดิต 3 เท่า",
+      "เงื่อนไขตามหน้าเว็บ"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0043",
+    "slug": "p0043",
+    "brand": "CAZASLOT88",
+    "title": "BONUS TIME นาทีทอง",
+    "subtitle": "ฝาก 50 รับ 100 (ช่วงเวลา 19:00-22:00 น.)",
+    "image": "/assets/banners/p0043.jpeg",
+    "logo": "",
+    "tag": [
+      "HOT",
+      "นาทีทอง"
+    ],
+    "link": "https://cazaslot88.com/users/sign_up?ref=c2n1n331c4175",
+    "terms": [
+      "ทำเทิร์น 2 เท่า",
+      "ถอนสูงสุดตามเงื่อนไข"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0051",
+    "slug": "p0051",
+    "brand": "COKE55",
+    "title": "ฝากแรกของวัน +100%",
+    "subtitle": "ดีลประจำวัน ตัวเลขชัด เงื่อนไขโปร่งใส",
+    "image": "/assets/banners/p0051.jpg",
+    "logo": "",
+    "tag": [
+      "DAILY",
+      "ฝากครั้งแรก"
+    ],
+    "link": "https://m.coke55play.vip/?prefix=coke55&action=register&refer_code=BNm0B64OmW",
+    "terms": [
+      "ทำ 3 เทิร์น",
+      "ถอนสูงสุดตามเรต"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0023",
+    "slug": "p0023",
+    "brand": "DRAGONKING999",
+    "title": "สมาชิกใหม่ 100% (100/200/300)",
+    "subtitle": "สมาชิกใหม่ 100% (100/200/300)",
+    "image": "/assets/banners/p0023.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://dragonking999.com/register?token=02c15ce911d3c44",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0026",
+    "slug": "p0026",
+    "brand": "EPS789",
+    "title": "เติมครั้งแรก 100% (เทิร์น 19x)",
+    "subtitle": "เติมครั้งแรก 100% (เทิร์น 19x)",
+    "image": "/assets/banners/p0026.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://eps789.vip/?action=register&ref=6867e63547e7f5dbb6b80366",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0041",
+    "slug": "p0041",
+    "brand": "FAHSAI789",
+    "title": "สมาชิกใหม่ 30%",
+    "subtitle": "ฝาก 100 รับ 130 • ฝาก 300 รับ 390 • ฝาก 500 รับ 650",
+    "image": "/assets/banners/p0041.jpeg",
+    "logo": "",
+    "tag": [
+      "HOT",
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://fahsai789.net/?action=register&ref=66ff9de9da3e64a93651d16d",
+    "terms": [
+      "สำหรับลูกค้าสล็อตเท่านั้น",
+      "เทิร์นตามเงื่อนไข"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0030",
+    "slug": "p0030",
+    "brand": "FC888",
+    "title": "สมาชิกใหม่ 100% (สูงสุด 300)",
+    "subtitle": "สมาชิกใหม่ 100% (สูงสุด 300)",
+    "image": "/assets/banners/p0030.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://fc888.biz/register?token=63b80c4ab24122f",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0009",
+    "slug": "p0009",
+    "brand": "FIFA-888",
+    "title": "สมาชิกใหม่ 100% สูงสุด 1,000",
+    "subtitle": "สมาชิกใหม่ 100% สูงสุด 1,000",
+    "image": "/assets/banners/p0009.jpeg",
+    "logo": "",
+    "tag": [
+      "PRO+"
+    ],
+    "link": "https://fifa-888.com/?action=register&ref=687ab16fcf590397032ffad8",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0008",
+    "slug": "p0008",
+    "brand": "FREEPLAY88",
+    "title": "สมาชิกใหม่ สูงสุด 150",
+    "subtitle": "สมาชิกใหม่ สูงสุด 150",
+    "image": "/assets/banners/p0008.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://freeplay88.me/?action=register&ref=67b8432f261951346ba52cae",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0015",
+    "slug": "p0015",
+    "brand": "HAA555",
+    "title": "ทุบไข่ลุ้นฟรี 199 + ฝากแรก 150%",
+    "subtitle": "ทุบไข่ลุ้นฟรี 199 + ฝากแรก 150%",
+    "image": "/assets/banners/p0015.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://www.haa-555.com?code=tWxNXetZcM&channel_id=sms01",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0012",
+    "slug": "p0012",
+    "brand": "HENG365",
+    "title": "ฝากแรกวัน รับ 50%",
+    "subtitle": "ฝากแรกวัน รับ 50%",
+    "image": "/assets/banners/p0012.jpeg",
+    "logo": "",
+    "tag": [
+      "PRO+"
+    ],
+    "link": "https://www.heng365.com/?af=886Z1B",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0025",
+    "slug": "p0025",
+    "brand": "JUN88",
+    "title": "ฝากครั้งแรก 100% สูงสุด 188",
+    "subtitle": "ฝากครั้งแรก 100% สูงสุด 188",
+    "image": "/assets/banners/p0025.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://www.xn--8888-fw0hc.com/?af=GJI0B2",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0054",
+    "slug": "p0054",
+    "brand": "LONGBET777",
+    "title": "LONGBET777 – สมาชิกใหม่ 100%",
+    "subtitle": "โปรสมาชิกใหม่ 100% (ทำ 4 เทิร์น)",
+    "image": "/assets/banners/p0054.jpg",
+    "logo": "",
+    "tag": [
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://longbet777.com/?action=register&ref=687bc614daa1331d6f00c376",
+    "terms": [
+      "ทำยอดเทิร์น 4 เท่า"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0014",
+    "slug": "p0014",
+    "brand": "M96PLUS",
+    "title": "สมาชิกใหม่ โบนัสสูงสุด 150%",
+    "subtitle": "สมาชิกใหม่ โบนัสสูงสุด 150%",
+    "image": "/assets/banners/p0014.jpeg",
+    "logo": "",
+    "tag": [
+      "PRO+"
+    ],
+    "link": "https://m96plus.com/?action=register&ref=68727d2afc3e549ac5f9b0c2",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0020",
+    "slug": "p0020",
+    "brand": "MAMA678",
+    "title": "แจกเครดิต 50 รับ 100",
+    "subtitle": "แจกเครดิต 50 รับ 100",
+    "image": "/assets/banners/p0020.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://mama678z.com/?ref=56404",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0057",
+    "slug": "p0057",
+    "brand": "MANGKHANG168",
+    "title": "มังกร168 – สมาชิกใหม่ โบนัส 30%",
+    "subtitle": "ฝาก 100 รับ 130 / ฝาก 200 รับ 260 / ฝาก 300 รับ 390 — ทำเทิร์น 2 เท่า ถอนได้ทันที (เฉพาะสล็อต/ยิงปลา)",
+    "image": "/assets/banners/p0057.jpg",
+    "logo": "",
+    "tag": [
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://mangkhang168.casino/?action=register&ref=68df6f36ed932c95362a6744",
+    "terms": [
+      "ทำยอดเทิร์น 2 เท่า ถอนได้ทันที (เฉพาะสล็อต/ยิงปลา)"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0044",
+    "slug": "p0044",
+    "brand": "MARIO789",
+    "title": "สมัครสมาชิกใหม่ 100%",
+    "subtitle": "100 รับ 200 ถอนได้ 600 • 300 รับ 600 ถอนได้ 3,000 • 500 รับ 1,000 ถอนได้ 5,000 • 1,000 รับ 2,000 ถอนได้ 10,000",
+    "image": "/assets/banners/p0044.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW",
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://mario789.app/register?member_ref=ahfj185705",
+    "terms": [
+      "ทำ 5 เทิร์น",
+      "โปรโมชั่นสมาชิกใหม่"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0059",
+    "slug": "p0059",
+    "brand": "MB789",
+    "title": "MB789 – สมาชิกใหม่ ฝากแรกรับ 100%",
+    "subtitle": "โบนัสสูงสุด 189 • ได้/เสีย x10 • ถอนไม่จำกัด (ดาวน์โหลดแอปปรับฟรีสูงสุด 189)",
+    "image": "/assets/banners/p0059.jpg",
+    "logo": "",
+    "tag": [
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://mb5678.mb789.bet/?referralCode=cdi9225",
+    "terms": [
+      "โบนัสสูงสุด 189",
+      "ทำยอดได้/เสีย x10",
+      "ถอนไม่จำกัด",
+      "เงื่อนไขเป็นไปตามเว็บกำหนด"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0038",
+    "slug": "p0038",
+    "brand": "MK8",
+    "title": "โปรฝากครั้งแรก ถอนไม่อั้น",
+    "subtitle": "ฝาก 100/300/500/1000 รับเพิ่มตามขั้น",
+    "image": "/assets/banners/p0038.jpg",
+    "logo": "",
+    "tag": [
+      "HOT",
+      "ฝากครั้งแรก"
+    ],
+    "link": "https://www.mk88112.com/?af=5BS9EO",
+    "terms": [
+      "ทำตามเงื่อนไขของโปร",
+      "ตรวจสอบเรตที่หน้าเว็บ"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0046",
+    "slug": "p0046",
+    "brand": "NAMO99",
+    "title": "สมัครสมาชิกใหม่ 100%",
+    "subtitle": "ฝาก 100 รับ 200 • ฝาก 300 รับ 600 • ฝาก 500 รับ 1,000 • ฝาก 1,000 รับ 2,000",
+    "image": "/assets/banners/p0046.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW",
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://namo99.us/register?member_ref=al4444201935",
+    "terms": [
+      "ทำ 5 เทิร์น",
+      "ถอนสูงสุด 10",
+      "000 บาท"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0055",
+    "slug": "p0055",
+    "brand": "NOS999",
+    "title": "NOS999 – สมาชิกใหม่ 100%",
+    "subtitle": "รับโบนัส 100% สูงสุด 1,000 บาท — ทำยอด 3 เท่า (ทั่วไป) / สล็อต ทำยอด 8 เท่า",
+    "image": "/assets/banners/p0055.jpg",
+    "logo": "",
+    "tag": [
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://d2fp4msr64qj75.cloudfront.net/nos999/oJv2deID99",
+    "terms": [
+      "โบนัสสูงสุด 1",
+      "000 บาท",
+      "ทำยอด 3 เท่า (เกมทั่วไป)",
+      "สล็อตทำยอด 8 เท่า",
+      "เงื่อนไขเป็นไปตามที่เว็บกำหนด"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0003",
+    "slug": "p0003",
+    "brand": "ODINSLOT888",
+    "title": "100 รับ 200",
+    "subtitle": "100 รับ 200",
+    "image": "/assets/banners/p0003.jpeg",
+    "logo": "",
+    "tag": [
+      "HOT"
+    ],
+    "link": "https://mmo-odn011.com/register?ref=66bc49501e8ce3f8f1a23231",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0018",
+    "slug": "p0018",
+    "brand": "OK918",
+    "title": "สมาชิกใหม่ 50%",
+    "subtitle": "สมาชิกใหม่ 50%",
+    "image": "/assets/banners/p0018.jpeg",
+    "logo": "",
+    "tag": [
+      "PRO+"
+    ],
+    "link": "https://app.ok918.biz/#/register?referCode=z4l9qt&inviteType=OFFICIAL",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0016",
+    "slug": "p0016",
+    "brand": "ONED88",
+    "title": "สมาชิกใหม่ 100% (เทิร์น x10)",
+    "subtitle": "สมาชิกใหม่ 100% (เทิร์น x10)",
+    "image": "/assets/banners/p0016.jpeg",
+    "logo": "",
+    "tag": [
+      "HOT"
+    ],
+    "link": "https://oned88.org/?action=register&ref=683364df3eaa314319d87c98",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0017",
+    "slug": "p0017",
+    "brand": "PERFECT789",
+    "title": "ฝาก 100/200/300 รับเพิ่ม x2",
+    "subtitle": "ฝาก 100/200/300 รับเพิ่ม x2",
+    "image": "/assets/banners/p0017.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://perfect789.com/?action=register&ref=68b5e45c79c1fa51902daa5f",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0027",
+    "slug": "p0027",
+    "brand": "PGFUN55",
+    "title": "สมาชิกใหม่ 100% (สูงสุด 300)",
+    "subtitle": "สมาชิกใหม่ 100% (สูงสุด 300)",
+    "image": "/assets/banners/p0027.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://pgfun55.electrikora.com/?prefix=pgfun55&action=register&refer_code=ifLf9MwpnU",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0028",
+    "slug": "p0028",
+    "brand": "PGSLOT444Z",
+    "title": "สมาชิกใหม่ 100% (สูงสุด 2,500)",
+    "subtitle": "สมาชิกใหม่ 100% (สูงสุด 2,500)",
+    "image": "/assets/banners/p0028.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://pgslot444z.electrikora.com/?prefix=pgslot444z&action=register&refer_code=qMzsZeaWUj",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0036",
+    "slug": "p0036",
+    "brand": "PGTH",
+    "title": "2 โปรสุดคุ้ม 50% / 100%",
+    "subtitle": "ยอดฝาก 100 รับ 150 หรือ รับ 200 (ไม่ต้องเทิร์น)",
+    "image": "/assets/banners/p0036.jpg",
+    "logo": "",
+    "tag": [
+      "HOT",
+      "โปรรวม"
+    ],
+    "link": "https://www.pgth.top/?af=P086AC",
+    "terms": [
+      "รายละเอียดหน้าเว็บ",
+      "เงื่อนไขตามโปรที่เลือก"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0006",
+    "slug": "p0006",
+    "brand": "PLAYFUN159",
+    "title": "สมาชิกใหม่ สูงสุด 500",
+    "subtitle": "สมาชิกใหม่ สูงสุด 500",
+    "image": "/assets/banners/p0006.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://playfun159.website/?action=register&ref=67e83f719d7f4b26a98a1bf1",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0019",
+    "slug": "p0019",
+    "brand": "PSGSLOT118",
+    "title": "สมาชิกใหม่ 50% (100/300/500)",
+    "subtitle": "สมาชิกใหม่ 50% (100/300/500)",
+    "image": "/assets/banners/p0019.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://psgslot118.electrikora.com/?prefix=psgslot118&action=register&refer_code=YEIGYoDWLL",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0004",
+    "slug": "p0004",
+    "brand": "RSL",
+    "title": "30 รับ 50 (ไม่ติดเทิร์น)",
+    "subtitle": "30 รับ 50 (ไม่ติดเทิร์น)",
+    "image": "/assets/banners/p0004.jpeg",
+    "logo": "",
+    "tag": [
+      "HOT"
+    ],
+    "link": "https://mmr-rsl011.com/register?ref=680d23361d6ff46cc99ca239",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0005",
+    "slug": "p0005",
+    "brand": "RUAYKOD",
+    "title": "สมาชิกใหม่ 50%",
+    "subtitle": "สมาชิกใหม่ 50%",
+    "image": "/assets/banners/p0005.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://ruaykod.ctmx.cc/?prefix=ruaykod&action=register&refer_code=4ZAamVW80C",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0002",
+    "slug": "p0002",
+    "brand": "SAGAME",
+    "title": "สมาชิกใหม่ 50%",
+    "subtitle": "สมาชิกใหม่ 50%",
+    "image": "/assets/banners/p0002.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://sagame.at/register?token=8ba8095ec1d59ce",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0050",
+    "slug": "p0050",
+    "brand": "SHREK99",
+    "title": "สมาชิกใหม่ 100% ทำ 3 เทิร์น",
+    "subtitle": "ถอน 5 เท่า • UI น่ารักสไตล์การ์ดเกม",
+    "image": "/assets/banners/p0050.jpg",
+    "logo": "",
+    "tag": [
+      "PRO+",
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://shrek99.ctmx.cc/?prefix=shrek99&action=register&refer_code=80RdvANwYD",
+    "terms": [
+      "เฉพาะสมาชิกใหม่",
+      "เทิร์นตามเงื่อนไข"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0022",
+    "slug": "p0022",
+    "brand": "SIAM369",
+    "title": "สล็อต 100% (สูงสุด 5,000)",
+    "subtitle": "สล็อต 100% (สูงสุด 5,000)",
+    "image": "/assets/banners/p0022.jpeg",
+    "logo": "",
+    "tag": [
+      "PRO+"
+    ],
+    "link": "https://www.siam369.io/th-th/?ref=S36951C99",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0047",
+    "slug": "p0047",
+    "brand": "SLOTGAME15",
+    "title": "สมาชิกใหม่ รับโบนัส 50%",
+    "subtitle": "สูงสุด 200 บาท เทิร์น 5 เท่า",
+    "image": "/assets/banners/p0047.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW",
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://slotgames15.com/?action=register&ref=66af0ff8c1007f821ad93193",
+    "terms": [
+      "ทำ 5 เทิร์น",
+      "ถอนสูงสุด 10 เท่า"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0045",
+    "slug": "p0045",
+    "brand": "TGAPOWER",
+    "title": "สมัครสมาชิกใหม่ 100%",
+    "subtitle": "ฝาก 100 รับ 200 • ฝาก 300 รับ 600 • ฝาก 500 รับ 1,000 • ฝาก 1,000 รับ 2,000",
+    "image": "/assets/banners/p0045.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW",
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://tgapower.app/register?member_ref=al222358934",
+    "terms": [
+      "ทำ 5 เทิร์น",
+      "ถอนสูงสุด 10",
+      "000 บาท"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0039",
+    "slug": "p0039",
+    "brand": "TH2.VIP",
+    "title": "ดับเบิ้ลโบนัสน้องใหม่ X2",
+    "subtitle": "ชุดที่ 1: ฝาก 100 รับ 200 (สมาชิกใหม่ 100%) • ชุดที่ 2: ฝากแรก 100 รับ 138",
+    "image": "/assets/banners/p0039.jpg",
+    "logo": "",
+    "tag": [
+      "HOT",
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://www.th2.club/?r=rgd5763",
+    "terms": [
+      "เทิร์นตามเงื่อนไข",
+      "ถอนได้ไม่อั้น"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0040",
+    "slug": "p0040",
+    "brand": "TH83",
+    "title": "สมาชิกใหม่ รับฟรี X2",
+    "subtitle": "เด้ง 1: ฝาก 100 รับ 1888 หรือ ฝาก 100 รับ 200 • เด้ง 2: ไม่ต้องฝาก กดรับ APP ฟรี 18",
+    "image": "/assets/banners/p0040.jpg",
+    "logo": "",
+    "tag": [
+      "HOT",
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://645930.th83.bet/?referralCode=vgu6565",
+    "terms": [
+      "เทิร์นตามเงื่อนไข",
+      "โปรโมชั่นสำหรับสมาชิกใหม่"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0001",
+    "slug": "p0001",
+    "brand": "THUNDERX168",
+    "title": "สมาชิกใหม่ รับทันที 30%",
+    "subtitle": "สมาชิกใหม่ รับทันที 30%",
+    "image": "/assets/banners/p0001.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://thunderx168.com/register?token=935cc1ebc5bc8f3",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0029",
+    "slug": "p0029",
+    "brand": "TIDSLOTS",
+    "title": "สมาชิกใหม่ 30% สูงสุด 450",
+    "subtitle": "สมาชิกใหม่ 30% สูงสุด 450",
+    "image": "/assets/banners/p0029.jpeg",
+    "logo": "",
+    "tag": [
+      "PRO+"
+    ],
+    "link": "https://tidslots.com/?action=register&ref=68957a701120091c482fb0fd",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0032",
+    "slug": "p0032",
+    "brand": "TUNDER24hr",
+    "title": "สมาชิกใหม่รับเลย 100%",
+    "subtitle": "โปรพิเศษยอดฮิต ดันบนสุด | ฝาก 100/200/300/400/500 รับเพิ่ม 100%",
+    "image": "/assets/banners/p0032.webp",
+    "logo": "",
+    "tag": [
+      "HOT",
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://m.tunder24hr.com/register?ref=TD24JOA8MMG4PS&type=TURNOVER",
+    "terms": [
+      "100 รับ 100 ทำยอด 600 ถอนได้สูงสุด 500",
+      "200 รับ 200 ทำยอด 1200 ถอนได้สูงสุด 1000",
+      "300 รับ 300 ทำยอด 1800 ถอนได้สูงสุด 1500",
+      "400 รับ 400 ทำยอด 2400 ถอนได้สูงสุด 2000",
+      "500 รับ 500 ทำยอด 3000 ถอนได้สูงสุด 2500",
+      "ทำเทิร์นเครดิต 3 เท่า"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0058",
+    "slug": "p0058",
+    "brand": "UEA855",
+    "title": "UEA855 – สมาชิกใหม่ ฝาก 25 รับ 100",
+    "subtitle": "ฝาก 25 รับ 100 — ทำยอด 400 ถอนได้ 200 บาท",
+    "image": "/assets/banners/p0058.jpg",
+    "logo": "",
+    "tag": [
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://member.uea855.com/register.php?u=ufabbsc98a27297",
+    "terms": [
+      "ทำยอดรวม 400 บาท ถอนสูงสุด 200 บาท (เงื่อนไขตามเว็บกำหนด)"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0053",
+    "slug": "p0053",
+    "brand": "UFA9",
+    "title": "ฝากครั้งแรก 100 รับ 300",
+    "subtitle": "ฝาก 100 รับเพิ่มเป็น 300 (รวม 400) • เทิร์น 8 เท่า • ถอนขั้นต่ำ 1,500 สูงสุด 2,500",
+    "image": "/assets/banners/p0053.jpg",
+    "logo": "",
+    "tag": [
+      "ฝากครั้งแรก"
+    ],
+    "link": "https://ufa9c.com/THB-th/home?refid=UZQFOLMZE",
+    "terms": [
+      "ฝาก 100 รับเพิ่มเป็น 300 ทันที (ตัวอย่าง ฝาก 100 รับรวม 400)",
+      "เทิร์นเพียง 8 เท่า",
+      "ถอนขั้นต่ำ 1",
+      "500 สูงสุด 2",
+      "500",
+      "เฉพาะสล็อตเท่านั้น"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0021",
+    "slug": "p0021",
+    "brand": "UGODZERO",
+    "title": "ฟรีเครดิต 50 รับ 100",
+    "subtitle": "ฟรีเครดิต 50 รับ 100",
+    "image": "/assets/banners/p0021.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://ugodzero.com/?ref=4101157355",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0011",
+    "slug": "p0011",
+    "brand": "VPM44",
+    "title": "สมาชิกใหม่รับ 100% (หลายแพ็ก)",
+    "subtitle": "สมาชิกใหม่รับ 100% (หลายแพ็ก)",
+    "image": "/assets/banners/p0011.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://vpm44.co/register?member_ref=ai666242326",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0063",
+    "slug": "p0063",
+    "brand": "WINK1688PLUS",
+    "title": "โปรสมาชิกใหม่ 100%",
+    "subtitle": "ฝากครั้งแรก รับ 100% ครบเรต 100–500",
+    "image": "/assets/banners/p0063.jpg",
+    "logo": "",
+    "tag": [
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://wink1688plus.ctmx.cc/?prefix=wink1688plus&action=register&refer_code=DFBwJfJtr3",
+    "terms": [
+      "เฉพาะสมาชิกใหม่",
+      "เทิร์นเครดิต 3 เท่า",
+      "เงื่อนไขตามหน้าเว็บ"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0061",
+    "slug": "p0061",
+    "brand": "WINK777PLUS",
+    "title": "โปรสมาชิกใหม่ 100%",
+    "subtitle": "ฝากครั้งแรกรับโบนัส 100% (เรต 100–500)",
+    "image": "/assets/banners/p0061.png",
+    "logo": "",
+    "tag": [
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://wink777plus.ctmx.cc/?prefix=wink777plus&action=register&refer_code=3wL1ZAbXfU",
+    "terms": [
+      "เฉพาะสมาชิกใหม่",
+      "เทิร์นเครดิต 3 เท่า",
+      "เงื่อนไขตามหน้าเว็บ"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0052",
+    "slug": "p0052",
+    "brand": "WKSLOT",
+    "title": "สมาชิกใหม่ 100% + เพชรเพิ่ม",
+    "subtitle": "ระบบ TOPUP ไว ลุ้นแจ็คพอตหนัก",
+    "image": "/assets/banners/p0052.jpg",
+    "logo": "",
+    "tag": [
+      "WEEKLY",
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://m.wkslot.bet/register?ref=WKH7BIVHSEIP&type=TOPUP",
+    "terms": [
+      "ทำเทิร์นตามกำหนดของค่าย"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0049",
+    "slug": "p0049",
+    "brand": "WY789S",
+    "title": "ฝากครั้งแรกรับ 100%",
+    "subtitle": "สายสล็อตรับง่าย เทิร์นต่ำ เล่นลื่น",
+    "image": "/assets/banners/p0049.jpg",
+    "logo": "",
+    "tag": [
+      "PRO+",
+      "ฝากครั้งแรก"
+    ],
+    "link": "https://member.wy789s.com/th?affiliateId=bQkLsWSclo",
+    "terms": [
+      "ทำเทิร์น 3x",
+      "ถอนสูงสุดตามเงื่อนไข"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0062",
+    "slug": "p0062",
+    "brand": "Wink123Plus",
+    "title": "โปรสมาชิกใหม่ 100%",
+    "subtitle": "รับโบนัส 100% เมื่อฝากครั้งแรก",
+    "image": "/assets/banners/p0062.png",
+    "logo": "",
+    "tag": [
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://wink123plus.ctmx.cc/?prefix=wink123plus&action=register&refer_code=YWrUotw6op",
+    "terms": [
+      "เฉพาะสมาชิกใหม่",
+      "เทิร์นเครดิต 3 เท่า",
+      "เงื่อนไขตามหน้าเว็บ"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0060",
+    "slug": "p0060",
+    "brand": "Wink24HR",
+    "title": "โปรสมาชิกใหม่ 100%",
+    "subtitle": "ฝากครั้งแรก รับโบนัส 100% ครบเรต 100–500",
+    "image": "/assets/banners/p0060.png",
+    "logo": "",
+    "tag": [
+      "สมาชิกใหม่ 100%"
+    ],
+    "link": "https://wink24hr.ctmx.cc/?prefix=wink24hr&action=register&refer_code=tteMZcLYJB",
+    "terms": [
+      "ฝาก 100→โบนัส 100 (ถอนได้สูงสุด 500)",
+      "200→200 (1",
+      "000)",
+      "300→300 (1",
+      "500)",
+      "400→400 (2",
+      "000)",
+      "500→500 (2",
+      "500)",
+      "เทิร์นเครดิต 3 เท่า"
+    ],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0031",
+    "slug": "p0031",
+    "brand": "YAP789",
+    "title": "สมาชิกใหม่ 100% (สูงสุด 300)",
+    "subtitle": "สมาชิกใหม่ 100% (สูงสุด 300)",
+    "image": "/assets/banners/p0031.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://yap789.org/register?token=In5VMGLU8DQnN6D9",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  },
+  {
+    "id": "p0024",
+    "slug": "p0024",
+    "brand": "YSL99",
+    "title": "สมาชิกใหม่ 100% สูงสุด 1,000",
+    "subtitle": "สมาชิกใหม่ 100% สูงสุด 1,000",
+    "image": "/assets/banners/p0024.jpeg",
+    "logo": "",
+    "tag": [
+      "NEW"
+    ],
+    "link": "https://www.ysl99.net/?af=DGWVDX",
+    "terms": [],
+    "rating": {
+      "score": 0.0,
+      "count": 0
+    }
+  }
+]

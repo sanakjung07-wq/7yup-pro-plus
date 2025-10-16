@@ -1,0 +1,10 @@
+[
+  {
+    "name": "sheet_promos",
+    "sheet_id": "your-sheet-id",
+    "gids": [
+      "0",
+      "12345"
+    ]
+  }
+]

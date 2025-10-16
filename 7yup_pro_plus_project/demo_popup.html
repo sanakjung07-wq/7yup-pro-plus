@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Pop-up Card Demo</title>
+    <style>
+      body {
+        margin: 0;
+        background: #111;
+        color: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        gap: 24px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      }
+      .card {
+        width: 320px;
+        border-radius: 24px;
+        overflow: hidden;
+        background: #222;
+        position: relative;
+      }
+      .card img {
+        width: 100%;
+        aspect-ratio: 1 / 1;
+        object-fit: cover;
+        display: block;
+      }
+      .card-content {
+        padding: 16px;
+      }
+      .card-content h2 {
+        margin: 0 0 4px;
+        font-size: 1.2rem;
+        font-weight: 700;
+        display: flex;
+        align-items: center;
+      }
+      .verified {
+        color: #00d486;
+        margin-left: 6px;
+      }
+      .card-content p {
+        margin: 0;
+        font-size: 0.9rem;
+        color: #bbb;
+      }
+      .card-footer {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 16px;
+        font-size: 0.8rem;
+        color: #888;
+      }
+      .stats {
+        display: flex;
+        gap: 12px;
+      }
+      .btn-follow {
+        background: #000;
+        border: 1px solid #333;
+        border-radius: 999px;
+        padding: 6px 14px;
+        color: #fff;
+        font-size: 0.8rem;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        gap: 4px;
+      }
+      /* Overlay variant */
+      .card.overlay .overlay-content {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: 16px;
+        background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.8));
+      }
+      .card.overlay .overlay-content h2,
+      .card.overlay .overlay-content p {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <img src="demo/avatar.png" alt="Portrait">
+      <div class="card-content">
+        <h2>Sophie Bennett<span class="verified">✔</span></h2>
+        <p>Product Designer who focuses on simplicity &amp; usability.</p>
+        <div class="card-footer">
+          <div class="stats">
+            <span>👥 312</span>
+            <span>💬 48</span>
+          </div>
+          <button class="btn-follow">Follow +</button>
+        </div>
+      </div>
+    </div>
+    <div class="card overlay">
+      <img src="demo/avatar.png" alt="Portrait">
+      <div class="overlay-content">
+        <h2>Sophie Bennett<span class="verified">✔</span></h2>
+        <p>A Product Designer focused on intuitive user experiences.</p>
+        <div class="card-footer">
+          <div class="stats">
+            <span>👥 312</span>
+            <span>💬 48</span>
+          </div>
+          <button class="btn-follow">Follow +</button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="th">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
+    <meta name="theme-color" content="#0b0b0c"/>
+    <title>โปรที่บันทึก • 7YUP PRO+</title>
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="icon" href="assets/icons/app-icon-192.png" sizes="192x192"/>
+    <link rel="preload" href="styles.css" as="style"/>
+    <link rel="stylesheet" href="styles.css"/>
+    <!-- Flag to indicate saved-only view -->
+    <script>
+      window.SHOW_SAVED_PROMOS = true;
+    </script>
+    <script defer src="js/app.js"></script>
+  </head>
+  <body>
+    <header class="app-header">
+      <a class="brand" href="/" aria-label="หน้าแรก">
+        <span class="logo-text">7YUP PRO+</span>
+      </a>
+      <div class="header-actions">
+        <a class="btn btn-quiet home-link" href="home.html">Home</a>
+        <a class="btn btn-quiet" href="index.html">ทั้งหมด</a>
+        <button id="installBtn" class="btn">ติดตั้งแอป</button>
+        <button id="menuBtn" class="btn btn-quiet" aria-expanded="false" aria-controls="menuPanel">เมนู</button>
+      </div>
+      <!-- Dropdown menu inside header to position relative to header -->
+      <div id="menuPanel" class="menu-panel" hidden>
+        <nav aria-label="เมนูด่วน">
+          <a href="home.html">Home</a>
+          <a href="index.html">ทั้งหมด</a>
+          <a href="saved.html">บันทึก</a>
+          <a href="#faq">FAQ</a>
+          <button id="themeToggle" class="btn btn-quiet" aria-pressed="false">สลับธีม</button>
+        </nav>
+      </div>
+    </header>
+    <section class="ticker" aria-live="polite">
+      <div class="ticker__inner">ℹ️ โปรดอ่านเงื่อนไขก่อนทำรายการ และติดตามข่าวสารอัปเดตใหม่ ๆ</div>
+    </section>
+    <section class="toolbar">
+      <label class="search">
+        <span class="sr-only">ค้นหา</span>
+        <input id="search" type="search" placeholder="ค้นหา..." autocomplete="off" inputmode="search" />
+      </label>
+      <div id="chips" class="chips" role="tablist" aria-label="ตัวกรอง"></div>
+    </section>
+    <main id="grid" class="grid" aria-live="polite">
+      <!-- cards will be rendered here -->
+    </main>
+    <nav id="pagination" class="pagination" aria-label="หน้าที่"></nav>
+    <section id="faq" class="faq-section"></section>
+    <!-- Modal reused -->
+    <dialog id="modal" class="modal" aria-labelledby="modalTitle">
+      <form method="dialog"><button class="modal__close" aria-label="ปิด">✕</button></form>
+      <div class="modal__body">
+        <img id="modalImg" alt="" loading="lazy" />
+        <h2 id="modalTitle"></h2>
+        <p id="modalDetails" class="modal-details"></p>
+        <p class="modal-note">หมายเหตุ: โปรดอ่านข้อกำหนดและเงื่อนไขเพิ่มเติมก่อนทำรายการ</p>
+        <p class="modal-warning">⚠️ โปรดติดต่อไลน์เพื่อเช็กโปรก่อนฝากอีกครั้ง</p>
+        <p class="modal-age">🔞 สำหรับผู้ที่มีอายุ 18 ปีขึ้นไป</p>
+        <div class="modal__cta">
+          <a id="modalApply" class="btn" target="_blank" rel="noopener noreferrer">สมัครเลย</a>
+          <button id="modalCopy" class="btn btn-quiet" type="button">แชร์ลิ้งค์</button>
+          <button id="modalSave" class="btn btn-quiet" type="button">บันทึก</button>
+        </div>
+      </div>
+    </dialog>
+    <!-- Social follow links -->
+    <div class="social-links">
+      <a href="https://x.com/7yup_vip?s=21" target="_blank" rel="noopener noreferrer" aria-label="ติดตามบน X">
+        <img src="assets/icons/x-twitter.svg" alt="X logo" />
+      </a>
+      <a href="https://t.me/nrbn98_vip" target="_blank" rel="noopener noreferrer" aria-label="ติดตามบน Telegram">
+        <img src="assets/icons/telegram.svg" alt="Telegram logo" />
+      </a>
+    </div>
+    <footer class="app-footer">
+      <small>© 2025 7YUP PRO+ • <a href="#top">Back to top ↑</a></small>
+    </footer>
+    <script>
+      // Register service worker
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js');
+        });
+      }
+    </script>
+  </body>
+</html>
